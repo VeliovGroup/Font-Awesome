@@ -1,0 +1,22 @@
+---
+layout: base
+title: Font Awesome по Русски, шрифтовые иконки совместимые с Twitter Bootstrap
+navbar_active: home
+relative_path: ./
+---
+
+{% include jumbotron-slider.html %}
+{% include stripe-social.html %}
+
+<div class="container">
+  {% capture stripe_ad_content %}
+  <p class="lead">
+    Font Awesome дает Вам векторные иконки с которыми легко работать и которые легко изсенять &mdash; размер, цвет, тени,
+    и многое другое при помощи силы CSS.
+  </p>
+  {% endcapture %}
+  {% include stripe-ad.html %}
+
+  {% include why.html %}
+  {% include thanks-to.html %}
+</div>

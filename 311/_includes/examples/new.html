@@ -1,0 +1,46 @@
+<{% if page.navbar_active == "examples" %}div{% else %}section{% endif %} id="new-styles">
+  <h2 class="page-header">Новые стили в {{ site.font_awesome.version }}</h2>
+  <div class="row">
+    <div class="span4">
+      <h4><a href="#rotated-flipped">Повернутые или перевернутые</a></h4>
+      <div class="well well-transparent">
+        <i class="icon-shield"></i>&nbsp; Нормальное положение<br>
+        <i class="icon-shield icon-rotate-90"></i>&nbsp; icon-rotate-90<br>
+        <i class="icon-shield icon-rotate-180"></i>&nbsp; icon-rotate-180<br>
+        <i class="icon-shield icon-rotate-270"></i>&nbsp; icon-rotate-270<br>
+        <i class="icon-shield icon-flip-horizontal"></i>&nbsp; icon-flip-horizontal (перевернут по горизонтали)<br>
+        <i class="icon-shield icon-flip-vertical"></i>&nbsp; icon-flip-vertical (перевернут по вертикали)
+      </div>
+    </div>
+    <div class="span4">
+      <h4><a href="#stacked">Совмещенные иконки</a></h4>
+      <div class="well well-transparent">
+        <span class="icon-stack">
+          <i class="icon-check-empty icon-stack-base"></i>
+          <i class="icon-twitter"></i>
+        </span>
+        icon-twitter и icon-check-empty<br>
+        <span class="icon-stack">
+          <i class="icon-circle icon-stack-base"></i>
+          <i class="icon-flag icon-light"></i>
+        </span>
+        icon-flag и icon-circle<br>
+        <span class="icon-stack">
+          <i class="icon-sign-blank icon-stack-base"></i>
+          <i class="icon-terminal icon-light"></i>
+        </span>
+        icon-terminal и icon-sign-blank
+      </div>
+    </div>
+    <div class="span4">
+      <h4><a href="#bulleted-lists">Улучшенный список</a></h4>
+      <div class="well well-transparent">
+        <ul class="icons-ul">
+          <li><i class="icon-li icon-chevron-sign-right"></i>Новый список</li>
+          <li><i class="icon-li icon-bullseye"></i>Исправлены старые баги</li>
+          <li><i class="icon-li icon-ok-sign"></i>Оптимизированный размер шрифта</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</{% if page.navbar_active == "examples" %}div{% else %}section{% endif %}>

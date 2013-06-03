@@ -1,0 +1,55 @@
+{% capture stripe_ad_content %}
+<p class="lead">
+  Font Awesome это проект с полностью открытым кодом совместимый с GPL. Вы можете использовать его в коммерческих целях, проектах с открытым кодом, или для чего-либо другого.
+</p>
+{% endcapture %}
+{% include stripe-ad.html %}
+
+<div>
+  <div class="alert alert-info">
+    <i class="icon-info-sign icon-2x pull-left margin-top-small padding-right-small"></i>Ссылка на первоисточник Font Awesome 3.0 более не обязательна, НО приветствуется:
+    <code>Font Awesome by Dave Gandy - http://fontawesome.io</code>.
+  </div>
+</div>
+
+<section>
+  <h2 class="page-header">Лицензия на Шрифт</h2>
+  <ul>
+    <li>
+      Применяется ко всем web и десктопным шрифтам находящимся в папке:
+      <code>font-awesome/font/</code>.
+    </li>
+    <li>Лицензия: {{ site.license.font.version }}</li>
+    <li>URL: <a href="{{ site.license.font.url }}">{{ site.license.font.url }}</a></li>
+  </ul>
+</section>
+
+<section>
+  <h2 class="page-header">Лицензия на код</h2>
+  <ul>
+    <li>
+      Применяется ко всем CSS и LESS файлам находящимся в папках:
+      <code>font-awesome/css/</code> and
+      <code>font-awesome/less/</code>.
+    </li>
+    <li>Лицензия: {{ site.license.code.version }}</li>
+    <li>URL: <a href="{{ site.license.code.url }}">{{ site.license.code.url }}</a></li>
+  </ul>
+</section>
+
+<section>
+  <h2 class="page-header">Лицензия на документацию</h2>
+  <ul>
+    <li>Применяется к проекту Font Awesome в целом, ко всем файлам которые не находятся под лицензией на Шрифт или Код.</li>
+    <li>Лицензия: {{ site.license.documentation.version }}</li>
+    <li>URL: <a href="{{ site.license.documentation.url }}">{{ site.license.documentation.url }}</a></li>
+  </ul>
+</section>
+
+<section>
+  <h2 class="page-header">Иконки брендов</h2>
+  <ul>
+    <li>Все иконки брендов, торговых марок или организаций принадлежат их владельцам.</li>
+    <li>Использование торговых марок не означает согласие или разрешение на использование со стороны их владельца или создателя Font Awesome.</li>
+  </ul>
+</section>

@@ -1,0 +1,17 @@
+{% capture stripe_ad_content %}
+<p class="lead">
+  Вы просили, - мы добавили. Font Awesome поставляется с {{ site.font_awesome.new_icon_count }} новыми иконками {{ site.font_awesome.version }}.
+  Хотите дополнить новыми иконками? <a href="{{ page.relative_path }}community/#requesting-new-icons">Вам сюда</a>.
+  <!--The ever-expanding list of Font Awesome {{ site.font_awesome.version }} icons.-->
+  Планируете использовать Font Awesome на своем ПК? Ознакомьтесь со <a href="{{ page.relative_path }}cheatsheet/">шпаргалкой</a>.
+</p>
+{% endcapture %}
+{% include stripe-ad.html %}
+
+{% include icons/new.html %}
+{% include icons/web-application.html %}
+{% include icons/text-editor.html %}
+{% include icons/directional.html %}
+{% include icons/video-player.html %}
+{% include icons/brand.html %}
+{% include icons/medical.html %}

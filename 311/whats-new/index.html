@@ -1,0 +1,17 @@
+---
+layout: base
+title: Font Awesome по Русски · Что нового?
+navbar_active: whats-new
+relative_path: ../
+---
+{% capture jumbotron_h1 %}<i class="icon-lightbulb icon-large"></i>&nbsp; Что нового?{% endcapture %}
+{% capture jumbotron_p %}Описание новых стилей и иконок в последней версии &mdash; Font Awesome {{ site.font_awesome.version }}{% endcapture %}
+
+{% include jumbotron.html %}
+{% include stripe-social.html %}
+
+<div class="container">
+  {% include whats-new.html %}
+  {% include examples/new.html %}
+  {% include icons/new.html %}
+</div>

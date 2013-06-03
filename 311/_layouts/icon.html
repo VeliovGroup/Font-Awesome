@@ -1,0 +1,59 @@
+---
+layout: base
+title_suffix: Font Awesome Иконки
+relative_path: ../../
+---
+<div class="jumbotron jumbotron-icon">
+  <div class="container">
+    <div class="info-icons">
+      <i class="icon-{{ page.icon['id'] }} icon-6"></i>&nbsp;&nbsp;
+      <i class="icon-{{ page.icon['id'] }} icon-5"></i>&nbsp;&nbsp;
+      <i class="icon-{{ page.icon['id'] }} icon-4"></i>&nbsp;&nbsp;
+      <i class="icon-{{ page.icon['id'] }} icon-3"></i>&nbsp;&nbsp;
+      <i class="icon-{{ page.icon['id'] }} icon-2"></i>&nbsp;
+      <i class="icon-{{ page.icon['id'] }} icon-1"></i>
+    </div>
+    <h1 class="info-class">
+      icon-{{ page.icon['id'] }}
+      <small>
+        <i class="icon-{{ page.icon['id'] }}"></i> &middot;
+        Юникод: <span class="upper">{{ page.icon['unicode'] }}</span> &middot;
+        Добавлен в версии: v{{ page.icon['created'] }} &middot;
+        Категории:
+        {% for category in page.icon['categories'] %}
+          {{ category }}{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+        {% if page.icon['aliases'] %}
+          &middot; Алиас:
+          {% for alias in page.icon['aliases'] %}
+            icon-{{ alias }}{% unless forloop.last %},{% endunless %}
+          {% endfor %}
+        {% endif %}
+      </small>
+    </h1>
+  </div>
+</div>
+
+
+<div class="container">
+  <section>
+    <div class="row-fluid">
+      <div class="span9">
+        <p>После <a href="{{ page.relative_path }}integration/">установки</a>, Вы можете использовать иконки Font Awesome используя тег <code>&lt;i&gt;</code>:</p>
+        <div class="well well-transparent">
+          <div style="font-size: 24px; line-height: 1.5em;">
+            <i class="icon-{{ page.icon['id'] }}"></i> icon-{{ page.icon['id'] }}
+          </div>
+        </div>
+{% highlight html linenos %}
+<i class="icon-{{ page.icon['id'] }}"></i> icon-{{ page.icon['id'] }}
+{% endhighlight %}
+        <br>
+        <div class="lead"><i class="icon-info-sign"></i> Еще? Посмотрите на <a href="{{ page.relative_path }}examples/">примеры использования</a>.</div>
+      </div>
+      <div class="span3">
+        <div class="info-ad"><!-- ADs 154x219 --></div>
+      </div>
+    </div>
+  </section>
+</div>
