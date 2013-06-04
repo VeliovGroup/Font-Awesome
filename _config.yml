@@ -14,7 +14,7 @@ pygments:         true
 
 icon_meta:        gh-pages/icons.yml
 icon_layout:      gh-pages/_layouts/icon.html    # Relative to _layouts directory
-icon_destination: icon         # Relative to destination
+icon_destination: gh-pages/icon         # Relative to destination
 
 font_awesome:
   version:        3.1.1
