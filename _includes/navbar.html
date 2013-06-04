@@ -1,0 +1,58 @@
+<div class="navbar navbar-inverse navbar-static-top hidden-print">
+  <div class="navbar-inner">
+    <div class="container">
+      <a class="brand" href="{{ page.relative_path }}"><i class="icon-flag"></i> Font Awesome</a>
+      <ul class="nav">
+        <li{% if page.navbar_active == "home" %} class="active"{% endif %}><a href="{{ page.relative_path }}">Главная</a></li>
+        <li{% if page.navbar_active == "get-started" %} class="active"{% endif %}><a href="{{ page.relative_path }}get-started/">Установка</a></li>
+        <li class="dropdown-split-left{% if page.navbar_active == "icons" %} active{% endif %}"><a href="{{ page.relative_path }}icons/">Иконки</a></li>
+        <li class="dropdown dropdown-split-right{% if page.navbar_active == "icons" %} active{% endif %}">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+          <i class="icon-caret-down"></i>
+        </a>
+        <ul class="dropdown-menu pull-right">
+          <li><a href="{{ page.relative_path }}icons/"><i class="icon-flag icon-fixed-width"></i>&nbsp; Иконки</a></li>
+          <li class="divider"></li>
+          <li><a href="{{ page.relative_path }}icons/#new"><i class="icon-shield icon-fixed-width"></i>&nbsp; Новые в {{ site.font_awesome.version }}</a></li>
+          <li><a href="{{ page.relative_path }}icons/#web-application"><i class="icon-camera-retro icon-fixed-width"></i>&nbsp; Web-приложение</a></li>
+          <li><a href="{{ page.relative_path }}icons/#text-editor"><i class="icon-file-alt icon-fixed-width"></i>&nbsp; Текстовый редактор</a></li>
+          <li><a href="{{ page.relative_path }}icons/#directional"><i class="icon-hand-right icon-fixed-width"></i>&nbsp; Указатели</a></li>
+          <li><a href="{{ page.relative_path }}icons/#video-player"><i class="icon-play-sign icon-fixed-width"></i>&nbsp; Видео-плеер</a></li>
+          <li><a href="{{ page.relative_path }}icons/#brand"><i class="icon-github icon-fixed-width"></i>&nbsp; Иконки брендов</a></li>
+          <li><a href="{{ page.relative_path }}icons/#medical"><i class="icon-medkit icon-fixed-width"></i>&nbsp; Медицинские иконки</a></li>
+        </ul>
+        </li>
+        <li class="dropdown-split-left{% if page.navbar_active == "examples" %} active{% endif %}"><a href="{{ page.relative_path }}examples/">Примеры использования</a></li>
+        <li class="dropdown dropdown-split-right{% if page.navbar_active == "examples" %} active{% endif %}">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+            <i class="icon-caret-down"></i>
+          </a>
+          <ul class="dropdown-menu pull-right">
+            <li><a href="{{ page.relative_path }}examples/">Примеры использования</a></li>
+            <li class="divider"></li>
+            <li><a href="{{ page.relative_path }}examples/#new-styles">Новые стили</a></li>
+            <li><a href="{{ page.relative_path }}examples/#inline-icons">Строчные иконки</a></li>
+            <li><a href="{{ page.relative_path }}examples/#larger-icons">Большие иконки</a></li>
+            <li><a href="{{ page.relative_path }}examples/#bordered-pulled">Рамка и выравнивание</a></li>
+            <li><a href="{{ page.relative_path }}examples/#buttons">Кнопки</a></li>
+            <li><a href="{{ page.relative_path }}examples/#button-groups">Группы кнопок</a></li>
+            <li><a href="{{ page.relative_path }}examples/#button-dropdowns">Выпадающие списки</a></li>
+            <li><a href="{{ page.relative_path }}examples/#bulleted-lists">Список</a></li>
+            <li><a href="{{ page.relative_path }}examples/#navigation">Навигация</a></li>
+            <li><a href="{{ page.relative_path }}examples/#form-inputs">Формы</a></li>
+            <li><a href="{{ page.relative_path }}examples/#animated-spinner">Анимированые иконки</a></li>
+            <li><a href="{{ page.relative_path }}examples/#rotated-flipped">Повернуть или отразить</a></li>
+            <li><a href="{{ page.relative_path }}examples/#stacked">Комбинированные</a></li>
+            <li><a href="{{ page.relative_path }}examples/#custom">Нестандартный CSS</a></li>
+          </ul>
+        </li>
+        <li{% if page.navbar_active == "whats-new" %} class="active"{% endif %}><a href="{{ page.relative_path }}whats-new/">Что нового?</a></li>
+        <li{% if page.navbar_active == "community" %} class="active"{% endif %}><a href="{{ page.relative_path }}community/">Сообщество</a></li>
+        <li{% if page.navbar_active == "license" %} class="active"{% endif %}><a href="{{ page.relative_path }}license/">Лицензия</a></li>
+      </ul>
+      <ul class="nav pull-right">
+        <li><a href="mailto:{{ site.font_awesome.author.email }}"><i class="icon-envelope"></i>&nbsp; Об авторе</a></li>
+      </ul>
+    </div>
+  </div>
+</div>

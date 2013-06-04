@@ -32,4 +32,21 @@ $(function() {
 //      $('#forks').html(data.data.forks);
 //    }
 //  });
+
+  $.ajax({
+    url: 'http://api.twitter.com/1/users/show.json',
+    data: {screen_name: 'smart_egg'},
+    dataType: 'jsonp',
+    success: function(data) {
+      $('#se_followers').html(data.followers_count);
+    }
+  });
+  $.ajax({
+    url: 'http://api.twitter.com/1/users/show.json',
+    data: {screen_name: 'VeliovGroup'},
+    dataType: 'jsonp',
+    success: function(data) {
+      $('#vg_followers').html(data.followers_count);
+    }
+  });
 });

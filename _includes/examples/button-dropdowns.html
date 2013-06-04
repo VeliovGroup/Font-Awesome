@@ -1,0 +1,36 @@
+<section id="button-dropdowns">
+  <h2 class="page-header">Выпадающие списки из кнопок</h2>
+  <div class="row">
+    <div class="span3">
+      <div class="btn-group open">
+        <a class="btn btn-primary" href="#"><i class="icon-user"></i> Пользователь</a>
+        <a class="btn btn-primary dropdown-toggle" data-toggle="dropdown" href="#">
+          <span class="icon-caret-down"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#"><i class="icon-fixed-width icon-pencil"></i> Редактровать</a></li>
+          <li><a href="#"><i class="icon-fixed-width icon-trash"></i> Удалить</a></li>
+          <li><a href="#"><i class="icon-fixed-width icon-ban-circle"></i> Заблокировать</a></li>
+          <li class="divider"></li>
+          <li><a href="#"><i class="i"></i> Сделать админом</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="span9">
+{% highlight html linenos %}
+<div class="btn-group open">
+  <a class="btn btn-primary" href="#"><i class="icon-user"></i> Пользователь</a>
+  <a class="btn btn-primary dropdown-toggle" data-toggle="dropdown" href="#">
+    <span class="icon-caret-down"></span></a>
+  <ul class="dropdown-menu">
+    <li><a href="#"><i class="icon-fixed-width icon-pencil"></i> Редактровать</a></li>
+    <li><a href="#"><i class="icon-fixed-width icon-trash"></i> Удалить</a></li>
+    <li><a href="#"><i class="icon-fixed-width icon-ban-circle"></i> Заблокировать</a></li>
+    <li class="divider"></li>
+    <li><a href="#"><i class="i"></i> Сделать админом</a></li>
+  </ul>
+</div>
+{% endhighlight %}
+      <div class="alert alert-info"><i class="icon-info-sign"></i> Не забудьте об JavaScript'е используемом в Twitter Bootstrap для активации выпадающих списков.</div>
+    </div>
+  </div>
+</section>

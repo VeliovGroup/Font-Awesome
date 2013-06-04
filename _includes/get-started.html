@@ -1,0 +1,96 @@
+{% capture stripe_ad_content %}
+<p class="lead">
+  Установка Font Awesome так же проста как и добавление 2-х строк кода в Ваш проект, если же вы профи
+  используйте LESS для компиляции! Font Awesome совместим и изначально предназначен для использования с
+  <a href="{{ site.bootstrap.url }}">Twitter Bootstrap</a>!
+</p>
+{% endcapture %}
+{% include stripe-ad.html %}
+
+<div id="bootstrapcdn">
+  <h2 class="page-header">Самый простой: <a href="http://www.bootstrapcdn.com/#tab_fontawesome">BootstrapCDN</a></h2>
+  <p>Добавьте Font Awesome + Bootstrap на Ваш сайт всего с помощью 2-х строчек кода. Вам не прийдется что-либо скачивать или устанавливать!</p>
+  <ol>
+    <li>
+      Поместите следующий код внутри тега <code>&lt;head&gt;</code>.
+{% highlight html linenos %}
+<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/{{ site.bootstrap.version }}/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+<link href="//netdna.bootstrapcdn.com/font-awesome/{{ site.font_awesome.version }}/css/font-awesome.css" rel="stylesheet">
+{% endhighlight %}
+      <div class="alert alert-info margin-top">
+        <i class="icon-info-sign"></i> Хотите использовать Font Awesome без Twitter Bootstrap? Просто уберите первую строчку кода из примера выше.
+      </div>
+    </li>
+    <li>
+      Получите и распишитесь, Вы уже используете scalable-vector-icons-on-the-website
+      <a href="http://37signals.com/svn/posts/312-lingo-judo">judo solution</a> добавив всего две строчки кода в свой проект.
+    </li>
+    <li>
+      Ознакомьтесь с <a href="{{ page.relative_path }}examples/">примерами использования</a> перед началом работы с Font Awesome!
+    </li>
+  </ol>
+</div>
+
+<section id="default-css">
+  <h2 class="page-header">Простой: стандартный CSS</h2>
+  <p>Используйте этот способ для работы со стандартным Font Awesome CSS совместно с Twitter Bootstrap CSS.</p>
+  <ol>
+    <li>Скопируйте папку <code>font-awesome</code> в Ваш проект.</li>
+    <li>
+      Внутрь тега <code>&lt;head&gt;</code>, добавьте путь к файлу font-awesome.min.css.
+{% highlight html linenos %}
+<link rel="stylesheet" href="path/to/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+{% endhighlight %}
+    </li>
+    <li>Ознакомьтесь с <a href="{{ page.relative_path }}examples/">примерами использования</a> перед началом работы с Font Awesome!</li>
+  </ol>
+</section>
+
+<section id="custom-less">
+  <h2 class="page-header">PRO: Компиляция LESS</h2>
+  <p>Используйте этот способ для создания собственной сборки Font Awesome и Twitter Bootstrap {{ site.bootstrap.version }} при помощи LESS.</p>
+  <ol>
+    <li>Скопируйте папку <code>font-awesome</code> в Ваш проект.</li>
+    <li>Откройте bootstrap.less и замените <code>@import "sprites.less";</code> на путь <code>@import "path/to/font-awesome/less/font-awesome.less";</code></li>
+    <li>
+      Откройте font-awesome.less и измените переменную <code>@FontAwesomePath</code> на путь к Вашей папке со шрифтами.
+{% highlight html linenos %}
+@FontAwesomePath:   "../font";
+{% endhighlight %}
+      <p class="alert alert-info"><i class="icon-info-sign"></i> Указывате путь к папке со шрифтами относительно папки с готовым CSS.</p>
+    </li>
+    <li>Перекомпилируйте LESS при использовании статичного компилятора. В обратном случае - все уже готово к работе.</li>
+    <li>Ознакомьтесь с <a href="{{ page.relative_path }}examples/">примерами использования</a> перед началом работы с Font Awesome!</li>
+  </ol>
+</section>
+
+<section id="not-using-bootstrap">
+  <h2 class="page-header">Не используете Twitter Bootstrap?</h2>
+  <p>Font Awesome так же работает и без использования Twitter Bootstrap.</p>
+  <ol>
+    <li>Скопируйте папку <code>font-awesome</code> в Ваш проект.</li>
+    <li>Следуйте шагам описанным выше, пропуская пункты связанные с Titter Bootstrap.</li>
+    <li>Откройте папку с файлом font-awesome.less или font-awesome.min.css и укажите путь к папке со шрифтами в нутри Вашего проекта (Питай выше).</li>
+    <li>Ознакомьтесь с <a href="{{ page.relative_path }}examples/">примерами использования</a> перед началом работы с Font Awesome!</li>
+  </ol>
+</section>
+
+<section class="need-ie7">
+  <h2 class="page-header">Вам нужна поддержка IE7?</h2>
+  <p>Font Awesome работает в IE7. И... мои соболезнования, если Вам действительно важен этот пункт.</p>
+  <ol>
+    <li>Утановите Font Awesome и протестируйте его работу в современных браузерах.</li>
+    <li>Добавьте font-awesome-ie7.min.css в Ваш проект.</li>
+    <li>
+      Добавьте в тег <code>&lt;head&gt;</code>, путь к font-awesome-ie7.min.css.
+{% highlight html linenos %}
+<link rel="stylesheet" href="path/to/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+<!--[if IE 7]>
+  <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome-ie7.min.css">
+<![endif]-->{% endhighlight %}
+    </li>
+    <li>Переубедите того, кто считает что поддержка IE7 нужна Вам или Вашему проекту.</li>
+  </ol>
+</section>

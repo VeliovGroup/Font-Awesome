@@ -1,0 +1,20 @@
+{% capture stripe_ad_content %}
+<p class="lead">
+  Font Awesome гордится своим сообществом, люди в котором помогают друг другу и развивают проект. Вы можете
+  <a href="#getting-support">получить поддержку</a>,
+  <a href="#reporting-bugs">сообщить об ошибке</a>,
+  <a href="#requesting-new-icons">запросить новые иконки</a>,
+  <a href="#submitting-pull-requests">отправить pull requests</a>, и
+  <a href="#project-milestones">посмотреть планы на будущее</a>.
+</p>
+{% endcapture %}
+{% include stripe-ad.html %}
+
+{% include community/getting-support.html %}
+{% include community/reporting-bugs.html %}
+{% include community/requesting-new-icons.html %}
+{% include community/submitting-pull-requests.html %}
+{% include community/project-milestones.html %}
+
+{% include thanks-to.html %}
+{% include tell-me-thanks.html %}
