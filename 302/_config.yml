@@ -1,6 +1,2 @@
-safe:             false
-auto:             true
-server:           true
-server_port:      7998
+safe:             true
 baseurl:          /Font-Awesome/302  # Where GitHub serves the project up from
-url:              http://localhost:7998
