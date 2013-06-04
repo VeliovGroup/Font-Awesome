@@ -4,6 +4,7 @@ server:           true
 server_port:      7998
 baseurl:          /Font-Awesome/  # Where GitHub serves the project up from
 url:              http://localhost:7998
+exclude:          ['/302', '/Font-Awesome/302']
 
 source:           build
 destination:      _gh_pages
