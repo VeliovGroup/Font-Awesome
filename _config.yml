@@ -4,7 +4,7 @@ server:           true
 server_port:      7998
 baseurl:          /Font-Awesome  # Where GitHub serves the project up from
 url:              http://localhost:7998
-exclude:          ['_302', '/Font-Awesome/_302']
+exclude:          ['/302', '/Font-Awesome/302']
 
 source:           gh-pages
 destination:      _gh_pages
@@ -13,7 +13,7 @@ plugins:          gh-pages/_plugins
 pygments:         true
 
 icon_meta:        gh-pages/icons.yml
-icon_layout:      icon.html    # Relative to _layouts directory
+icon_layout:      gh-pages/_layouts/icon.html    # Relative to _layouts directory
 icon_destination: icon         # Relative to destination
 
 font_awesome:
