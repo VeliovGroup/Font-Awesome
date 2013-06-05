@@ -4,105 +4,105 @@ icons:
     unicode:    f000
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Music
     id:         music
     unicode:    f001
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Search
     id:         search
     unicode:    f002
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Envelope
     id:         envelope
     unicode:    f003
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Heart
     id:         heart
     unicode:    f004
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Star
     id:         star
     unicode:    f005
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Star Empty
     id:         star-empty
     unicode:    f006
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       User
     id:         user
     unicode:    f007
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Film
     id:         film
     unicode:    f008
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       th-large
     id:         th-large
     unicode:    f009
     created:    1.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       th
     id:         th
     unicode:    f00a
     created:    1.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       th-list
     id:         th-list
     unicode:    f00b
     created:    1.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       OK
     id:         ok
     unicode:    f00c
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Remove
     id:         remove
     unicode:    f00d
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Zoom In
     id:         zoom-in
     unicode:    f00e
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
 
   - name:       Zoom Out
@@ -110,7 +110,7 @@ icons:
     unicode:    f010
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Off
     id:         'off'
@@ -119,91 +119,91 @@ icons:
     aliases:
       - power-off
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       signal
     id:         signal
     unicode:    f012
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       cog
     id:         cog
     unicode:    f013
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       trash
     id:         trash
     unicode:    f014
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       home
     id:         home
     unicode:    f015
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       file
     id:         file
     unicode:    f016
     created:    1.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       time
     id:         time
     unicode:    f017
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       road
     id:         road
     unicode:    f018
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       download-alt
     id:         download-alt
     unicode:    f019
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       download
     id:         download
     unicode:    f01a
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       upload
     id:         upload
     unicode:    f01b
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       inbox
     id:         inbox
     unicode:    f01c
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       play-circle
     id:         play-circle
     unicode:    f01d
     created:    1.0.0
     categories:
-      - Video Player Icons
+      - Видео-плеер
 
   - name:       repeat
     id:         repeat
@@ -212,7 +212,7 @@ icons:
     aliases:
       - rotate-right
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
 
   - name:       refresh
@@ -220,105 +220,105 @@ icons:
     unicode:    f021
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       list-alt
     id:         list-alt
     unicode:    f022
     created:    1.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       lock
     id:         lock
     unicode:    f023
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       flag
     id:         flag
     unicode:    f024
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       headphones
     id:         headphones
     unicode:    f025
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       volume-off
     id:         volume-off
     unicode:    f026
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       volume-down
     id:         volume-down
     unicode:    f027
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       volume-up
     id:         volume-up
     unicode:    f028
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       qrcode
     id:         qrcode
     unicode:    f029
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       barcode
     id:         barcode
     unicode:    f02a
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       tag
     id:         tag
     unicode:    f02b
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       tags
     id:         tags
     unicode:    f02c
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       book
     id:         book
     unicode:    f02d
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       bookmark
     id:         bookmark
     unicode:    f02e
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       print
     id:         print
     unicode:    f02f
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
 
   - name:       camera
@@ -326,105 +326,105 @@ icons:
     unicode:    f030
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       font
     id:         font
     unicode:    f031
     created:    1.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       bold
     id:         bold
     unicode:    f032
     created:    1.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       italic
     id:         italic
     unicode:    f033
     created:    1.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       text-height
     id:         text-height
     unicode:    f034
     created:    1.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       text-width
     id:         text-width
     unicode:    f035
     created:    1.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       align-left
     id:         align-left
     unicode:    f036
     created:    1.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       align-center
     id:         align-center
     unicode:    f037
     created:    1.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       align-right
     id:         align-right
     unicode:    f038
     created:    1.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       align-justify
     id:         align-justify
     unicode:    f039
     created:    1.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       list
     id:         list
     unicode:    f03a
     created:    1.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       indent-left
     id:         indent-left
     unicode:    f03b
     created:    1.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       indent-right
     id:         indent-right
     unicode:    f03c
     created:    1.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       facetime-video
     id:         facetime-video
     unicode:    f03d
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       picture
     id:         picture
     unicode:    f03e
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
 
   - name:       pencil
@@ -432,105 +432,105 @@ icons:
     unicode:    f040
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       map-marker
     id:         map-marker
     unicode:    f041
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       adjust
     id:         adjust
     unicode:    f042
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       tint
     id:         tint
     unicode:    f043
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       edit
     id:         edit
     unicode:    f044
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       share
     id:         share
     unicode:    f045
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       check
     id:         check
     unicode:    f046
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       move
     id:         move
     unicode:    f047
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       step-backward
     id:         step-backward
     unicode:    f048
     created:    1.0.0
     categories:
-      - Video Player Icons
+      - Видео-плеер
 
   - name:       fast-backward
     id:         fast-backward
     unicode:    f049
     created:    1.0.0
     categories:
-      - Video Player Icons
+      - Видео-плеер
 
   - name:       backward
     id:         backward
     unicode:    f04a
     created:    1.0.0
     categories:
-      - Video Player Icons
+      - Видео-плеер
 
   - name:       play
     id:         play
     unicode:    f04b
     created:    1.0.0
     categories:
-      - Video Player Icons
+      - Видео-плеер
 
   - name:       pause
     id:         pause
     unicode:    f04c
     created:    1.0.0
     categories:
-      - Video Player Icons
+      - Видео-плеер
 
   - name:       stop
     id:         stop
     unicode:    f04d
     created:    1.0.0
     categories:
-      - Video Player Icons
+      - Видео-плеер
 
   - name:       forward
     id:         forward
     unicode:    f04e
     created:    1.0.0
     categories:
-      - Video Player Icons
+      - Видео-плеер
 
 
   - name:       fast-forward
@@ -538,105 +538,105 @@ icons:
     unicode:    f050
     created:    1.0.0
     categories:
-      - Video Player Icons
+      - Видео-плеер
 
   - name:       step-forward
     id:         step-forward
     unicode:    f051
     created:    1.0.0
     categories:
-      - Video Player Icons
+      - Видео-плеер
 
   - name:       eject
     id:         eject
     unicode:    f052
     created:    1.0.0
     categories:
-      - Video Player Icons
+      - Видео-плеер
 
   - name:       chevron-left
     id:         chevron-left
     unicode:    f053
     created:    1.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       chevron-right
     id:         chevron-right
     unicode:    f054
     created:    1.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       plus-sign
     id:         plus-sign
     unicode:    f055
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       minus-sign
     id:         minus-sign
     unicode:    f056
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       remove-sign
     id:         remove-sign
     unicode:    f057
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       ok-sign
     id:         ok-sign
     unicode:    f058
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       question-sign
     id:         question-sign
     unicode:    f059
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       info-sign
     id:         info-sign
     unicode:    f05a
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       screenshot
     id:         screenshot
     unicode:    f05b
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       remove-circle
     id:         remove-circle
     unicode:    f05c
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       ok-circle
     id:         ok-circle
     unicode:    f05d
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       ban-circle
     id:         ban-circle
     unicode:    f05e
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
 
   - name:       arrow-left
@@ -644,28 +644,28 @@ icons:
     unicode:    f060
     created:    1.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       arrow-right
     id:         arrow-right
     unicode:    f061
     created:    1.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       arrow-up
     id:         arrow-up
     unicode:    f062
     created:    1.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       arrow-down
     id:         arrow-down
     unicode:    f063
     created:    1.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       share-alt
     id:         share-alt
@@ -674,77 +674,77 @@ icons:
     aliases:
       - mail-forward
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       resize-full
     id:         resize-full
     unicode:    f065
     created:    1.0.0
     categories:
-      - Video Player Icons
+      - Видео-плеер
 
   - name:       resize-small
     id:         resize-small
     unicode:    f066
     created:    1.0.0
     categories:
-      - Video Player Icons
+      - Видео-плеер
 
   - name:       plus
     id:         plus
     unicode:    f067
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       minus
     id:         minus
     unicode:    f068
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       asterisk
     id:         asterisk
     unicode:    f069
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       exclamation-sign
     id:         exclamation-sign
     unicode:    f06a
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       gift
     id:         gift
     unicode:    f06b
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       leaf
     id:         leaf
     unicode:    f06c
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       fire
     id:         fire
     unicode:    f06d
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       eye-open
     id:         eye-open
     unicode:    f06e
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
 
   - name:       eye-close
@@ -752,105 +752,105 @@ icons:
     unicode:    f070
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       warning-sign
     id:         warning-sign
     unicode:    f071
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       plane
     id:         plane
     unicode:    f072
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       calendar
     id:         calendar
     unicode:    f073
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       random
     id:         random
     unicode:    f074
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       comment
     id:         comment
     unicode:    f075
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       magnet
     id:         magnet
     unicode:    f076
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       chevron-up
     id:         chevron-up
     unicode:    f077
     created:    1.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       chevron-down
     id:         chevron-down
     unicode:    f078
     created:    1.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       retweet
     id:         retweet
     unicode:    f079
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       shopping-cart
     id:         shopping-cart
     unicode:    f07a
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       folder-close
     id:         folder-close
     unicode:    f07b
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       folder-open
     id:         folder-open
     unicode:    f07c
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       resize-vertical
     id:         resize-vertical
     unicode:    f07d
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       resize-horizontal
     id:         resize-horizontal
     unicode:    f07e
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
 
   - name:       bar-chart
@@ -858,7 +858,7 @@ icons:
     unicode:    f080
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       twitter-sign
     id:         twitter-sign
@@ -879,63 +879,63 @@ icons:
     unicode:    f083
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       key
     id:         key
     unicode:    f084
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       cogs
     id:         cogs
     unicode:    f085
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       comments
     id:         comments
     unicode:    f086
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       thumbs-up
     id:         thumbs-up
     unicode:    f087
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       thumbs-down
     id:         thumbs-down
     unicode:    f088
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       star-half
     id:         star-half
     unicode:    f089
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       heart-empty
     id:         heart-empty
     unicode:    f08a
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       signout
     id:         signout
     unicode:    f08b
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       linkedin-sign
     id:         linkedin-sign
@@ -949,14 +949,14 @@ icons:
     unicode:    f08d
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       external-link
     id:         external-link
     unicode:    f08e
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
 
   - name:       signin
@@ -964,14 +964,14 @@ icons:
     unicode:    f090
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       trophy
     id:         trophy
     unicode:    f091
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       github-sign
     id:         github-sign
@@ -985,42 +985,42 @@ icons:
     unicode:    f093
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       lemon
     id:         lemon
     unicode:    f094
     created:    1.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       phone
     id:         phone
     unicode:    f095
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       check-empty
     id:         check-empty
     unicode:    f096
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       bookmark-empty
     id:         bookmark-empty
     unicode:    f097
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       phone-sign
     id:         phone-sign
     unicode:    f098
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       twitter
     id:         twitter
@@ -1048,21 +1048,21 @@ icons:
     unicode:    f09c
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       credit-card
     id:         credit-card
     unicode:    f09d
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       rss
     id:         rss
     unicode:    f09e
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
 
   - name:       hdd
@@ -1070,105 +1070,105 @@ icons:
     unicode:    f0a0
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       bullhorn
     id:         bullhorn
     unicode:    f0a1
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       bell
     id:         bell
     unicode:    f0a2
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       certificate
     id:         certificate
     unicode:    f0a3
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       hand-right
     id:         hand-right
     unicode:    f0a4
     created:    2.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       hand-left
     id:         hand-left
     unicode:    f0a5
     created:    2.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       hand-up
     id:         hand-up
     unicode:    f0a6
     created:    2.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       hand-down
     id:         hand-down
     unicode:    f0a7
     created:    2.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       circle-arrow-left
     id:         circle-arrow-left
     unicode:    f0a8
     created:    2.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       circle-arrow-right
     id:         circle-arrow-right
     unicode:    f0a9
     created:    2.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       circle-arrow-up
     id:         circle-arrow-up
     unicode:    f0aa
     created:    2.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       circle-arrow-down
     id:         circle-arrow-down
     unicode:    f0ab
     created:    2.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       globe
     id:         globe
     unicode:    f0ac
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       wrench
     id:         wrench
     unicode:    f0ad
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       tasks
     id:         tasks
     unicode:    f0ae
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
 
   - name:       filter
@@ -1176,21 +1176,21 @@ icons:
     unicode:    f0b0
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       briefcase
     id:         briefcase
     unicode:    f0b1
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       fullscreen
     id:         fullscreen
     unicode:    f0b2
     created:    2.0.0
     categories:
-      - Video Player Icons
+      - Видео-плеер
 
 
   - name:       group
@@ -1198,105 +1198,105 @@ icons:
     unicode:    f0c0
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       link
     id:         link
     unicode:    f0c1
     created:    2.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       cloud
     id:         cloud
     unicode:    f0c2
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       beaker
     id:         beaker
     unicode:    f0c3
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       cut
     id:         cut
     unicode:    f0c4
     created:    2.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       copy
     id:         copy
     unicode:    f0c5
     created:    2.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       paper-clip
     id:         paper-clip
     unicode:    f0c6
     created:    2.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       save
     id:         save
     unicode:    f0c7
     created:    2.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       sign-blank
     id:         sign-blank
     unicode:    f0c8
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       reorder
     id:         reorder
     unicode:    f0c9
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       list-ul
     id:         list-ul
     unicode:    f0ca
     created:    2.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       list-ol
     id:         list-ol
     unicode:    f0cb
     created:    2.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       strikethrough
     id:         strikethrough
     unicode:    f0cc
     created:    2.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       underline
     id:         underline
     unicode:    f0cd
     created:    2.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       table
     id:         table
     unicode:    f0ce
     created:    2.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
 
   - name:       magic
@@ -1304,14 +1304,14 @@ icons:
     unicode:    f0d0
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       truck
     id:         truck
     unicode:    f0d1
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       pinterest
     id:         pinterest
@@ -1346,63 +1346,63 @@ icons:
     unicode:    f0d6
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       caret-down
     id:         caret-down
     unicode:    f0d7
     created:    2.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       caret-up
     id:         caret-up
     unicode:    f0d8
     created:    2.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       caret-left
     id:         caret-left
     unicode:    f0d9
     created:    2.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       caret-right
     id:         caret-right
     unicode:    f0da
     created:    2.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       columns
     id:         columns
     unicode:    f0db
     created:    2.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       sort
     id:         sort
     unicode:    f0dc
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       sort-down
     id:         sort-down
     unicode:    f0dd
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       sort-up
     id:         sort-up
     unicode:    f0de
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
 
   - name:       envelope-alt
@@ -1410,7 +1410,7 @@ icons:
     unicode:    f0e0
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       linkedin
     id:         linkedin
@@ -1427,91 +1427,91 @@ icons:
     aliases:
       - rotate-left
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       legal
     id:         legal
     unicode:    f0e3
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       dashboard
     id:         dashboard
     unicode:    f0e4
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       comment-alt
     id:         comment-alt
     unicode:    f0e5
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       comments-alt
     id:         comments-alt
     unicode:    f0e6
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       bolt
     id:         bolt
     unicode:    f0e7
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       sitemap
     id:         sitemap
     unicode:    f0e8
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       umbrella
     id:         umbrella
     unicode:    f0e9
     created:    2.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       paste
     id:         paste
     unicode:    f0ea
     created:    2.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       lightbulb
     id:         lightbulb
     unicode:    f0eb
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       exchange
     id:         exchange
     unicode:    f0ec
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       cloud-download
     id:         cloud-download
     unicode:    f0ed
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       cloud-upload
     id:         cloud-upload
     unicode:    f0ee
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
 
   - name:       user-md
@@ -1519,105 +1519,105 @@ icons:
     unicode:    f0f0
     created:    2.0.0
     categories:
-      - Medical Icons
+      - Медицинские иконки
 
   - name:       stethoscope
     id:         stethoscope
     unicode:    f0f1
     created:    3.0.0
     categories:
-      - Medical Icons
+      - Медицинские иконки
 
   - name:       suitcase
     id:         suitcase
     unicode:    f0f2
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       bell-alt
     id:         bell-alt
     unicode:    f0f3
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       coffee
     id:         coffee
     unicode:    f0f4
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       food
     id:         food
     unicode:    f0f5
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       file-alt
     id:         file-alt
     unicode:    f0f6
     created:    3.0.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       building
     id:         building
     unicode:    f0f7
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       hospital
     id:         hospital
     unicode:    f0f8
     created:    3.0.0
     categories:
-      - Medical Icons
+      - Медицинские иконки
 
   - name:       ambulance
     id:         ambulance
     unicode:    f0f9
     created:    3.0.0
     categories:
-      - Medical Icons
+      - Медицинские иконки
 
   - name:       medkit
     id:         medkit
     unicode:    f0fa
     created:    3.0.0
     categories:
-      - Medical Icons
+      - Медицинские иконки
 
   - name:       fighter-jet
     id:         fighter-jet
     unicode:    f0fb
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       beer
     id:         beer
     unicode:    f0fc
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       h-sign
     id:         h-sign
     unicode:    f0fd
     created:    3.0.0
     categories:
-      - Medical Icons
+      - Медицинские иконки
 
   - name:       plus-sign-alt
     id:         plus-sign-alt
     unicode:    f0fe
     created:    3.0.0
     categories:
-      - Medical Icons
+      - Медицинские иконки
 
 
   - name:       double-angle-left
@@ -1625,105 +1625,105 @@ icons:
     unicode:    f100
     created:    3.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       double-angle-right
     id:         double-angle-right
     unicode:    f101
     created:    3.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       double-angle-up
     id:         double-angle-up
     unicode:    f102
     created:    3.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       double-angle-down
     id:         double-angle-down
     unicode:    f103
     created:    3.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       angle-left
     id:         angle-left
     unicode:    f104
     created:    3.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       angle-right
     id:         angle-right
     unicode:    f105
     created:    3.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       angle-up
     id:         angle-up
     unicode:    f106
     created:    3.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       angle-down
     id:         angle-down
     unicode:    f107
     created:    3.0.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       desktop
     id:         desktop
     unicode:    f108
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       laptop
     id:         laptop
     unicode:    f109
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       tablet
     id:         tablet
     unicode:    f10a
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       mobile-phone
     id:         mobile-phone
     unicode:    f10b
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       circle-blank
     id:         circle-blank
     unicode:    f10c
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       quote-left
     id:         quote-left
     unicode:    f10d
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       quote-right
     id:         quote-right
     unicode:    f10e
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
 
   - name:       spinner
@@ -1731,14 +1731,14 @@ icons:
     unicode:    f110
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       circle
     id:         circle
     unicode:    f111
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       reply
     id:         reply
@@ -1747,7 +1747,7 @@ icons:
     aliases:
       - mail-reply
     categories:
-      - Web Application Icons
+      - Веб приложение
 
 
   - name:       folder-close-alt
@@ -1755,77 +1755,77 @@ icons:
     unicode:    f114
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       folder-open-alt
     id:         folder-open-alt
     unicode:    f115
     created:    3.0.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       expand-alt
     id:         expand-alt
     unicode:    f116
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       collapse-alt
     id:         collapse-alt
     unicode:    f117
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       smile
     id:         smile
     unicode:    f118
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       frown
     id:         frown
     unicode:    f119
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       meh
     id:         meh
     unicode:    f11a
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       gamepad
     id:         gamepad
     unicode:    f11b
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       keyboard
     id:         keyboard
     unicode:    f11c
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       flag-alt
     id:         flag-alt
     unicode:    f11d
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       flag-checkered
     id:         flag-checkered
     unicode:    f11e
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
 
   - name:       terminal
@@ -1833,28 +1833,28 @@ icons:
     unicode:    f120
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       code
     id:         code
     unicode:    f121
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       reply-all
     id:         reply-all
     unicode:    f122
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       mail-reply-all
     id:         mail-reply-all
     unicode:    f122
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       star-half-empty
     id:         star-half-empty
@@ -1863,85 +1863,85 @@ icons:
     aliases:
       - star-half-full
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       location-arrow
     id:         location-arrow
     unicode:    f124
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       crop
     id:         crop
     unicode:    f125
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       code-fork
     id:         code-fork
     unicode:    f126
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       unlink
     id:         unlink
     unicode:    f127
     created:    3.1.0
     categories:
-      - Text Editor Icons
+      - Редактор текста
 
   - name:       question
     id:         question
     unicode:    f128
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       info
     id:         info
     unicode:    f129
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       exclamation
     id:         exclamation
     unicode:    f12a
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       superscript
     id:         superscript
     unicode:    f12b
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       subscript
     id:         subscript
     unicode:    f12c
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       eraser
     id:         eraser
     unicode:    f12d
     created:    3.1.0
     categories:
-      - Text Editor Icons
-      - Web Application Icons
+      - Редактор текста
+      - Веб приложение
 
   - name:       puzzle-piece
     id:         puzzle-piece
     unicode:    f12e
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
 
   - name:       microphone
@@ -1949,42 +1949,42 @@ icons:
     unicode:    f130
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       microphone-off
     id:         microphone-off
     unicode:    f131
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       shield
     id:         shield
     unicode:    f132
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       calendar-empty
     id:         calendar-empty
     unicode:    f133
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       fire-extinguisher
     id:         fire-extinguisher
     unicode:    f134
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       rocket
     id:         rocket
     unicode:    f135
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       MaxCDN
     id:         maxcdn
@@ -1998,28 +1998,28 @@ icons:
     unicode:    f137
     created:    3.1.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       Chevron Sign Right
     id:         chevron-sign-right
     unicode:    f138
     created:    3.1.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       Chevron Sign Up
     id:         chevron-sign-up
     unicode:    f139
     created:    3.1.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       Chevron Sign Down
     id:         chevron-sign-down
     unicode:    f13a
     created:    3.1.0
     categories:
-      - Directional Icons
+      - Указатели
 
   - name:       HTML 5 Logo
     id:         html5
@@ -2040,14 +2040,14 @@ icons:
     unicode:    f13d
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Unlock Alt
     id:         unlock-alt
     unicode:    f13e
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
 
   - name:       Bullseye
@@ -2055,95 +2055,95 @@ icons:
     unicode:    f140
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Horizontal Ellipsis
     id:         ellipsis-horizontal
     unicode:    f141
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Vertical Ellipsis
     id:         ellipsis-vertical
     unicode:    f142
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       RSS Sign
     id:         rss-sign
     unicode:    f143
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Play Sign
     id:         play-sign
     unicode:    f144
     created:    3.1.0
     categories:
-      - Video Player Icons
+      - Видео-плеер
 
   - name:       Ticket
     id:         ticket
     unicode:    f145
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Minus Sign Alt
     id:         minus-sign-alt
     unicode:    f146
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Check Minus
     id:         check-minus
     unicode:    f147
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Level Up
     id:         level-up
     unicode:    f148
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Level Down
     id:         level-down
     unicode:    f149
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Check Sign
     id:         check-sign
     unicode:    f14a
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Edit Sign
     id:         edit-sign
     unicode:    f14b
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Exteral Link Sign
     id:         external-link-sign
     unicode:    f14c
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
 
   - name:       Share Sign
     id:         share-sign
     unicode:    f14d
     created:    3.1.0
     categories:
-      - Web Application Icons
+      - Веб приложение
