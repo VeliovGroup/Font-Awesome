@@ -1,9 +1,9 @@
 safe:             true
 auto:             true
 server:           true
-# server_port:      7998
+server_port:      7998
 baseurl:          /Font-Awesome/311  # Where GitHub serves the project up from
-# url:              http://localhost:7998
+url:              http://localhost:7998
 
 source:           gh-pages/311
 destination:      gh-pages/311
