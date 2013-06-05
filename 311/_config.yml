@@ -12,7 +12,7 @@ plugins:          gh-pages/311/_plugins
 pygments:         true
 
 icon_meta:        gh-pages/311/icons.yml
-icon_layout:      icon.html    # Relative to _layouts directory
+icon_layout:      gh-pages/311/_layouts/icon.html    # Relative to _layouts directory
 icon_destination: icon         # Relative to destination
 
 font_awesome:
